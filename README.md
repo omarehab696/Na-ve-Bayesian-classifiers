@@ -1,3 +1,6 @@
+# Use sci-kit learn or other python packages to compare the performance of types of Na¨ıveBayesian classifiers with the help of accuracy scores. Use Spambase dataset in the question, which you can access using the URL: [https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data](https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data)
+
+
 # Naive-Bayesian-classifiers
 ## Step 1: Split the dataset into two parts, with 80% of the data used for training and 20% of the data used for testing. Then Train each classifier on the training data and evaluated its performance on the test data.
 
